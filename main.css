@@ -1,0 +1,28 @@
+.primary .prime {
+  color: #d9f5e8;
+  size: 250px;
+  background: #d9f5e8;
+  width: 250px;
+  height: 62.5px; }
+.primary .prime2 {
+  color: #373cc2;
+  size: 250px;
+  background: #373cc2;
+  width: 250px;
+  height: 62.5px; }
+.primary .prime3 {
+  color: #ffff33;
+  size: 250px;
+  background: #ffff33;
+  width: 250px;
+  height: 62.5px; }
+.primary .prime4 {
+  color: tomato;
+  size: 250px;
+  background: tomato;
+  width: 250px;
+  height: 62.5px; }
+.primary div {
+  display: inline-block; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,30 @@
+@mixin boxes($color, $size){
+  color: $color;
+  size: $size;
+
+  background: $color;
+  width: $size;
+  height: $size/4;
+}
+
+
+.primary {
+  .prime {
+    @include boxes(rgb(217,245,232), 250px);
+    }
+    
+    .prime2 {
+      @include boxes(rgb(55,60,194), 250px);
+    }
+
+    .prime3 {
+      @include boxes(rgb(255,287,51), 250px);
+    }
+
+    .prime4 {
+      @include boxes(rgb(255,99,71), 250px);
+    }
+    div{
+      display: inline-block;
+    }
+}
